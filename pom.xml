@@ -15,7 +15,7 @@
     <hadoop.version>2.7.7</hadoop.version>
     <commons-dbcp2.version>2.6.0</commons-dbcp2.version>
     <hamcrest.version>1.1</hamcrest.version>
-    <junit.version>4.11</junit.version>
+    <junit.version>4.13.1</junit.version>
     <powermock.version>1.7.4</powermock.version>
     <mockito-all.version>1.9.5</mockito-all.version>
     <mysql.jdbc.driver>5.1.22</mysql.jdbc.driver>
