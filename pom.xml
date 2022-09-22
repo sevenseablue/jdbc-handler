@@ -20,7 +20,7 @@
     <mockito-all.version>1.9.5</mockito-all.version>
     <mysql.jdbc.driver>5.1.22</mysql.jdbc.driver>
     <db-datasource.version>1.4.20</db-datasource.version>
-    <pg.jdbc.driver>9.4.1211</pg.jdbc.driver>
+    <pg.jdbc.driver>42.3.7</pg.jdbc.driver>
   </properties>
 
 
